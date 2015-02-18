@@ -1,3 +1,7 @@
+### Used Telescope, made an edit to not allow URL submissions
+
+
+
 [![Build Status](https://travis-ci.org/TelescopeJS/Telescope.svg)](https://travis-ci.org/TelescopeJS/Telescope)
 [![Code Climate](https://codeclimate.com/github/TelescopeJS/Telescope/badges/gpa.svg)](https://codeclimate.com/github/TelescopeJS/Telescope)
 
@@ -28,5 +32,3 @@ Start hacking on this app on
 in seconds:
 
 [![Hack TelescopeJS/Telescope on Nitrous.IO](https://d3o0mnbgv6k92a.cloudfront.net/assets/hack-l-v1-3cc067e71372f6045e1949af9d96095b.png)](https://www.nitrous.io/hack_button?source=embed&runtime=nodejs&repo=TelescopeJS%2FTelescope&file_to_open=README.nitrous.md)
-
-- TELESCOPE BUT WITHOUT LINK SUBMISSION, USED TO PITCHIDEAS
